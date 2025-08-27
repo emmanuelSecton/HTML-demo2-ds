@@ -1,2 +1,2 @@
 # HTML-demo2-ds
-Segundo proyecto en HTML para Desarollo de Software - UTN
+Página Web con tablas semánticas y formulario para Desarollo de Software - UTN
